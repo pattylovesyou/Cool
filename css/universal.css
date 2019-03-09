@@ -1,0 +1,31 @@
+body{
+	font-family:"Open Sans", helvetica, sans-serif;
+	margin:0px;
+	padding:0px;
+	background-color:#111;
+	background-image:url("../images/bruhman.png"), url("../images/cools_pic.jpg");
+	background-repeat:no-repeat;
+	 background-attachment: fixed;
+	background-position:left bottom, center right;
+	background-size:auto, 50%;
+}
+
+#bruhman {
+	position:absolute;
+	opacity:0;
+	user-select: none;
+}
+
+iframe {
+	margin-left:25%;
+	margin-top:10%;
+	position:absolute;
+}
+
+
+.titlenig {
+	color:#ffffff;
+	margin-left:27%;
+	margin-top:7%;
+	position:absolute;
+}
